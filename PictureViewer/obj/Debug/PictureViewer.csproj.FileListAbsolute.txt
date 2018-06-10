@@ -1,0 +1,9 @@
+c:\users\clark\source\repos\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+c:\users\clark\source\repos\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+c:\users\clark\source\repos\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+c:\users\clark\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+c:\users\clark\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+c:\users\clark\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+c:\users\clark\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+c:\users\clark\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+c:\users\clark\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.clarksPicViewer.resources
